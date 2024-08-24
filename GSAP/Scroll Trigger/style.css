@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-family: sans-serif;
+    overflow-x: hidden;
+}
+
+/* .page1 {
+    height: 100%;
+    width: 100%;
+    background-color: lightblue;
+}
+
+.page2 {
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+    position: relative;
+}
+
+.page2 h1{
+    position: absolute;
+    top: 30%;
+    font-size: 50px;
+}
+
+.page2 h2 {
+    background-color: red;
+    padding: 20px 50px;
+    font-size: 30px;
+    color: white;
+    border: 1px solid black;
+    font-weight: 700;
+    border-radius: 50px;
+}
+
+.page3 {
+    height: 100%;
+    width: 100%;
+    background-color: royalblue;
+}
+
+.box {
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+} */
+
+.page1{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+
+.page2{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(198, 228, 238);
+}
+
+.page2 h1{
+    font-size: 30vw;
+    padding: 20vh 0;
+
+}
+
+.page3{
+    height: 100%;
+    width: 100%;
+    background-color: crimson;
+}
