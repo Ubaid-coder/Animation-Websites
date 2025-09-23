@@ -1,0 +1,14 @@
+ mesh.position.x = 1;
+ mesh.position.z = 1
+ mesh.position.y = 3;
+
+ mesh.rotation.z =4; 
+ continuous rotation
+
+ mesh.scale.x = 2.6;
+
+ mesh.rotation.x = Math.PI // 180 degrees
+mesh.rotation.y = Math.PI / 4; // 90 degrees
+ mesh.rotation.y = Math.PI / 4; // 45 degrees
+ mesh.rotation.y = Math.PI *2  // 360 degrees
+mesh.rotation.x = Math.PI / 4; // 90 degrees
